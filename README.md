@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rojan Shrestha
+#  Hi, I'm Rojan Shrestha
 
 **Curious Builder | Cloud & DevOps Enthusiast | Relentless Optimizer**
 
@@ -8,7 +8,7 @@ I thrive on testing bold ideas, fearless prototyping, and the courage to fail fa
 
 ---
 
-## 🚧 What I’m Currently Working On
+## What I’m Currently Working On
 
 - **Infrastructure as Code (IaC):** Provisioning foundational AWS environments (VPCs, EC2) using **Terraform**.
 - **Configuration Management:** Writing modular **Ansible** playbooks to automate distributed web and database server setups. 
@@ -17,7 +17,7 @@ I thrive on testing bold ideas, fearless prototyping, and the courage to fail fa
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -42,7 +42,7 @@ I thrive on testing bold ideas, fearless prototyping, and the courage to fail fa
 
 ---
 
-## 🌱 My Engineering Philosophy
+##  My Engineering Philosophy
 
 * **Break things locally, fix them globally:** I believe the best way to learn complex systems (like bridging networks across VMs) is to get your hands dirty in a lab environment.
 * **Agile iteration over perfection:** Ship the MVP, monitor the metrics, and iterate.
@@ -50,7 +50,7 @@ I thrive on testing bold ideas, fearless prototyping, and the courage to fail fa
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - **Email:** `shrestharojan099@gmail.com`
 - **LinkedIn:** [Connect with me on LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rojan-shrestha-7259842a1/))
